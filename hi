@@ -2,7 +2,11 @@ class Hello
 {
 Public static void main(String args[])
 {
+<<<<<<< HEAD
 System.out.println(“hello,happy new year,happy month,great year ahead”);
+=======
+System.out.println(“hello,hi how are you”);
+>>>>>>> 6c27f3348cce63bd43964c724b94ca4130cd2436
 }
 }
 
